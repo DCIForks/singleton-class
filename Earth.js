@@ -59,4 +59,6 @@ class Earth {
   }
 }
 
-module.exports = new Earth();
+
+const earth = new Earth()
+module.exports = earth;
